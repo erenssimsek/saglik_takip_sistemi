@@ -1,3 +1,5 @@
+Kişisel Sağlık Takip Uygulamamız da öncelikle Ad Soyad, Yaş ve Cinsiyet Bilgileri alınır. Ardından sağlık verisi eklenir ve sonra egzersiz eklenir. Ve kayıt eklenir. En son olarak da Rapor oluşturulur ve görüntülenebilir.
+
 ![Ekran görüntüsü 2024-05-06 160343](https://github.com/erenssimsek/saglik_takip_sistemi/assets/93097999/67f37c2e-c62c-4386-8af4-6f3597466a76)
 
 ![Ekran görüntüsü 2024-05-06 160359](https://github.com/erenssimsek/saglik_takip_sistemi/assets/93097999/10635b40-a5e6-4434-959e-19973d19c8d9)
